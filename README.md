@@ -49,11 +49,10 @@ You are required to model the demand for shared bikes with the available indepen
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-### References
 - https://medium.datadriveninvestor.com/anscombes-quartet-12649db7eac0
 - https://medium.com/@premal.matalia/q-q-plot-in-linear-regression-explained-ab040567d86f
 - https://www.wallstreetmojo.com/pearson-correlation-coefficient/
+- ChatGPT
 
 
 ## Contact
